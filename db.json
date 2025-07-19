@@ -1,0 +1,121 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "title": "Getting Started with React Hooks",
+      "img": "https://picsum.photos/seed/react/80/80",
+      "body": "Learn how to use React Hooks effectively in your applications with practical examples and best practices.",
+      "date": "2024-01-15",
+      "view": 12,
+      "status": "published"
+    },
+    {
+      "id": 2,
+      "title": "CSS Grid Layout: Modern Web Design Techniques",
+      "img": "https://picsum.photos/seed/cssgrid/80/80",
+      "body": "Master CSS Grid to create responsive and flexible layouts for modern web applications.",
+      "date": "2024-01-14",
+      "view": 0,
+      "status": "draft"
+    },
+    {
+      "id": 3,
+      "title": "Advanced State Management in React",
+      "img": "https://picsum.photos/seed/state/80/80",
+      "body": "Explore complex state management solutions with Redux and Zustand.",
+      "date": "2024-01-20",
+      "view": 45,
+      "status": "published"
+    },
+    {
+      "id": 4,
+      "title": "Drafting a Killer UX Strategy",
+      "img": "https://picsum.photos/seed/uxdraft/80/80",
+      "body": "Planning user experience starts with understanding user psychology.",
+      "date": "2024-01-25",
+      "view": 8,
+      "status": "draft"
+    },
+    {
+      "id": 5,
+      "title": "Scheduled Post: Tailwind vs. CSS Modules",
+      "img": "https://picsum.photos/seed/tailwindcss/80/80",
+      "body": "A complete comparison of styling methods in modern React apps.",
+      "date": "2024-02-01",
+      "view": 0,
+      "status": "scheduled"
+    },
+    {
+      "id": 6,
+      "title": "Next.js Routing Deep Dive",
+      "img": "https://picsum.photos/seed/nextjsrouting/80/80",
+      "body": "Master the new App Router in Next.js 14 and dynamic routes.",
+      "date": "2024-02-05",
+      "view": 19,
+      "status": "published"
+    },
+    {
+      "id": 7,
+      "title": "Working with Draft Posts in CMS",
+      "img": "https://picsum.photos/seed/cmsdraft/80/80",
+      "body": "How to handle drafts in your content management systems.",
+      "date": "2024-02-10",
+      "view": 3,
+      "status": "draft"
+    },
+    {
+      "id": 8,
+      "title": "Scheduled Deployment Tips",
+      "img": "https://picsum.photos/seed/deployschedule/80/80",
+      "body": "Plan your releases with confidence using CI/CD tools.",
+      "date": "2024-02-14",
+      "view": 0,
+      "status": "scheduled"
+    },
+    {
+      "id": 9,
+      "title": "React Context API Demystified",
+      "img": "https://picsum.photos/seed/context/80/80",
+      "body": "Understand how to properly share state across components.",
+      "date": "2024-02-20",
+      "view": 28,
+      "status": "published"
+    },
+    {
+      "id": 10,
+      "title": "Draft: Creating Scalable Layouts",
+      "img": "https://picsum.photos/seed/layouts/80/80",
+      "body": "Build flexible UI systems that work on all screen sizes.",
+      "date": "2024-02-25",
+      "view": 5,
+      "status": "draft"
+    },
+    {
+      "id": 11,
+      "title": "Scheduled: Writing Better Tests",
+      "img": "https://picsum.photos/seed/testing/80/80",
+      "body": "Improve your test coverage and confidence with Jest and React Testing Library.",
+      "date": "2024-03-01",
+      "view": 0,
+      "status": "scheduled"
+    },
+    {
+      "id": 12,
+      "title": "Published: Git for Frontend Developers",
+      "img": "https://picsum.photos/seed/git/80/80",
+      "body": "Learn branching, rebasing, and conflict resolution like a pro.",
+      "date": "2024-03-05",
+      "view": 63,
+      "status": "published"
+    },
+    {
+      "id": 13,
+      "title": "JavaScript Best Practices for Clean Code",
+      "img": "https://picsum.photos/seed/jsbest/80/80",
+      "body": "Write maintainable and efficient JavaScript code with these proven best practices and patterns.",
+      "date": "2024-01-13",
+      "view": 321,
+      "status": "scheduled"
+    }
+  ]
+}
