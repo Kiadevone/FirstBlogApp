@@ -1,24 +1,6 @@
 {
   "post": [
     {
-      "id": 1,
-      "title": "Getting Started with React Hooks",
-      "img": "https://picsum.photos/seed/react/80/80",
-      "body": "Learn how to use React Hooks effectively in your applications with practical examples and best practices.",
-      "date": "2024-01-15",
-      "view": 12,
-      "status": "published"
-    },
-    {
-      "id": 2,
-      "title": "CSS Grid Layout: Modern Web Design Techniques",
-      "img": "https://picsum.photos/seed/cssgrid/80/80",
-      "body": "Master CSS Grid to create responsive and flexible layouts for modern web applications.",
-      "date": "2024-01-14",
-      "view": 0,
-      "status": "draft"
-    },
-    {
       "id": 3,
       "title": "Advanced State Management in React",
       "img": "https://picsum.photos/seed/state/80/80",
