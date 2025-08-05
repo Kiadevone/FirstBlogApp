@@ -66,7 +66,7 @@ const Header = () => {
       </div>
       <li className="flex items-center gap-2">
         <div className="hover:bg-slate-100 px-4 py-2 rounded-md">
-          <Link className="flex items-center gap-2" href="/pages/dashbord">
+          <Link className="flex items-center gap-2" href="/dashboard">
             <img className="w-6 h-6" src="\iconDashbord.png" alt="" />{" "}
             <span className="text-xl font-semibold text-neutral-600 hover:text-neutral-800">
               Dashbord
@@ -74,7 +74,7 @@ const Header = () => {
           </Link>
         </div>
         <div className="hover:bg-slate-100 px-4 py-2 rounded-md">
-          <Link className="flex items-center gap-2" href="/pages/allPost">
+          <Link className="flex items-center gap-2" href="/allPost">
             <img className="w-6 h-6" src="\iconFile.png" alt="" />{" "}
             <span className="text-xl font-semibold text-neutral-600 hover:text-neutral-800">
               All Post
@@ -82,7 +82,7 @@ const Header = () => {
           </Link>
         </div>
         <div className="hover:bg-slate-100 px-4 py-2 rounded-md">
-          <Link className="flex items-center gap-2" href="/pages/categories">
+          <Link className="flex items-center gap-2" href="/categories">
             <img className="w-6 h-6" src="\iconList.png" alt="" />{" "}
             <span className="text-xl font-semibold text-neutral-600 hover:text-neutral-800">
               Categories

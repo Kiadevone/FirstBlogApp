@@ -1,5 +1,5 @@
 import React from "react";
-import { Posts } from "../pages/dashbord/components/recentlyPost/PostType";
+import { Posts } from "../Types/blogType";
 
 interface Props {
   props: Posts;

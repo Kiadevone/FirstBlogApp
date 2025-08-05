@@ -1,1 +1,1 @@
-export type status = "published" | "draft" | "scheduled";
+export type status = "published" | "draft" | "scheduled" | "all";

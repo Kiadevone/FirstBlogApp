@@ -9,11 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@hookform/resolvers": "^5.2.1",
+    "axios": "^1.11.0",
     "debounce": "^2.2.0",
     "next": "15.3.5",
+    "next-cloudinary": "^6.16.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "use-debounce": "^10.0.5"
+    "react-hook-form": "^7.61.1",
+    "use-debounce": "^10.0.5",
+    "zod": "^4.0.14"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
